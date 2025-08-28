@@ -71,27 +71,4 @@ pyshop/
    👉 http://127.0.0.1:8000/  
    👉 Admin: http://127.0.0.1:8000/admin/
 
----
 
-## 📝 Requirements
-Create a `requirements.txt` with:
-```
-Django>=5.0
-```
-
-(You can generate exact versions with: `pip freeze > requirements.txt`)
-
----
-
-## 📸 Screenshots (Optional)
-_Add screenshots of your app UI or Django Admin here._
-
----
-
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss.
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
